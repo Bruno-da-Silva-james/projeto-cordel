@@ -52,16 +52,16 @@ main > .conteudo{
 }
 main > .normal{
     font-family: 'Sriracha';
-    font-size: 4vw;
+    font-size: 3.4vw;
 }
 main > .imagem1{
     font-family: 'Sriracha';
-    font-size: 4vw;
+    font-size: 3.4vw;
     background: black url('imagens/background001.jpg') center center no-repeat fixed;
 }
 main > .imagem2{
     font-family: 'Sriracha';
-    font-size: 4vw;
+    font-size: 3.4vw;
     background: black url('imagens/background002.jpg') center center no-repeat fixed;
 }   
 footer{
